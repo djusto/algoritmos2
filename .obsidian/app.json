@@ -1,1 +1,5 @@
-{}
+{
+  "strictLineBreaks": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": true
+}

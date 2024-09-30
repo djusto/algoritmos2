@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
-                "mode": "source",
+                "file": "0-Cronograma.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "0-Cronograma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "0-Cronograma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "0-Cronograma.md"
               }
             }
           }
@@ -164,14 +164,15 @@
   },
   "active": "24a726e10c411874",
   "lastOpenFiles": [
-    "S1.md",
-    "git.md",
+    "Complexidade.md",
     "0-Cronograma.md",
+    "S1.md",
+    "S10.md",
+    "git.md",
     "Untitled.canvas",
     "Referências.md",
     "S2.md",
     "S3.md",
-    "Complexidade.md",
     "Estrutura de Dados.md",
     "Welcome.md"
   ]

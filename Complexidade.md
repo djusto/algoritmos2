@@ -335,14 +335,10 @@ print(f' tloop={tloop}  tflop={tflop }  GFLOP={GFLOP}')
 
 
 ## Ex. Matriz x vetor:
-Qual o custo para calcular o produto matriz-vetor
-  $$ \vec{x} = A \vec{v}$$
-onde $x,v \in V^n$?
+Qual o custo para calcular o produto matriz-vetor  $\vec{x} = A \vec{v}$ onde $x,v \in V^n$?
 ### Solução:
 Cada elemento de x tem a forma
-$$
-x_i =A_{i,1} .v_1+A_{i,2} .v_2...+A_{i,n} .v_n,  \;\;\;i=1,...,n
-$$
+$x_i =A_{i,1} .v_1+A_{i,2} .v_2...+A_{i,n} .v_n,  \;\;\;i=1,...,n$
 #### Em código
 ```python
 n = len(u)
