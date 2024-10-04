@@ -38,7 +38,9 @@ Exemplos de elementos:
 
 array (vetores) 
    ![[Pasted image 20240916124631.png]]
-   [[https://visualgo.net/en/array]]
+   
+   https://visualgo.net/en/array
+   
    ![[Pasted image 20240916130003.png]]
    array range queries ??
    

@@ -9,6 +9,7 @@ Para criar novo repositório: troque ===`usuario`=== pelo seu usuario abaixo
 * Abra o terminal de comando;
 * Dentro da pasta do projeto, digite: `git init`  
 * Para adicionar todos os arquivos alterados à fila de atualizações do repositório, execute o comando: `git add .`
+
 * Antes de sincronizar as alterações, configure seu usuário do GitHub com os comandos (coloque seu usuário e email):  
     `git config --global user.name usuario`
     `git config --global user.email usuario@gmail.com`

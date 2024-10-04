@@ -188,8 +188,6 @@ for k in range(n):
     if L[k]==busca:
         print (f'Achei {busca} em {k}.)
         break
-
-
 ```
 
 

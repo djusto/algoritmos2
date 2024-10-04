@@ -1,12 +1,15 @@
+Esse repositório contém as notas de aula da disciplina de Algoritmos e Programação 2 (é uma cópia de um *vault* do obsidian)  
+
+Durante o semestre 2024/2 deve mudar constantemente, inclusive a ordem dos tópicos de acordo com o andamento da disciplina.
 
 Tópicos
 
 [[S1]]: Python/F90, Objeto, Complexidade (Seq x recursivo)  
 [S1](S1.md)
-	[[Referências]]
+	[[Referências]]  
 [[S2]]: Pesquisa Linear x binária, Ordenamento  
 [[S3]]: Ordenamentos  
-[[S4]]: 18/out(CONCURSO)  ------  Matrizes Esparsas  
+[[S4]]: 18/out(CONCURSO)  ----  Matrizes Esparsas  
 [[S5]]: Pilhas  
 [[S6]]: Filas  (expressões)   
 [[S7]]: (ProvaNumerico)  
@@ -19,12 +22,14 @@ S13: 20/Dez
 S14: 10/Jan  
 S15: 17/Jan  
 
-Toda aula: (F90 passada), Algoritmo, Complexidade, Python, Aplicacação.
+Toda aula: (F90 passada), Algoritmo, Complexidade, Python, Aplicação.
 
 
 # Súmula
 
-SEMANAS
+Último cronograma no plano de ensino enviado
+
+SEMANAS  
 1   Algoritmos Conceitos. Tipos de algoritmos  
 2-4 Complexidade de algoritmos. Contagem de operações. Análise do comportamento assintótico para algoritmos sequenciais e recursivos.  
 5   Algoritmos de pesquisa Pesquisa linear e binária.  
