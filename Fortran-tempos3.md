@@ -77,6 +77,11 @@ python, usando numpy sem loops
 20000  0.38  2.56
 ```
 
+ver [[python memoria]]
+
+
+
+
 
 # Testes rotinas Blas do Fortran
 ```

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fortran-tempos3.md",
+                "file": "python memoria.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fortran-tempos3.md",
+                "file": "python memoria.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fortran-tempos3.md",
+                "file": "python memoria.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fortran-tempos3.md"
+                "file": "python memoria.md"
               }
             }
           }
@@ -163,10 +163,11 @@
   },
   "active": "00c6c185c783487b",
   "lastOpenFiles": [
+    "Fortran-tempos3.md",
+    "python memoria.md",
     "Fortran.md",
     "Fortran - tempos.md",
     "Fortran - tempos2 - taylor.md",
-    "Fortran-tempos3.md",
     "Estrutura de Dados.md",
     "Busca de string.md",
     "git.md",
