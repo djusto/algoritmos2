@@ -33,9 +33,16 @@
 Tipos derivados
 [https://fortran-lang.org/learn/quickstart/derived_types/](https://fortran-lang.org/learn/quickstart/derived_types/)
 
+Alguns testes de medidas de tempos
 
 
-[[Fortran - tempos]]
+# [Fortran - tempos](Fortran%20-%20tempos.md)
+
+# [Fortran - tempos2 - taylor](Fortran%20-%20tempos2%20-%20taylor.md)
+
+# [Fortran-tempos3](Fortran-tempos3.md)
+
+
 
 
 

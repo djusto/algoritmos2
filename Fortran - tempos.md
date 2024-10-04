@@ -79,6 +79,7 @@ u(64):  17.7  ns /319 = 0.055   => 18.1 GFLOPS
 u(64):  36.31 ns /639 = 0.056   => 17.5 GFLOPS
 ``` 
 
+
 No Intel Fortran Compiler
 ```
 r = r + a =   1.97 ns (subtraindo dos tempos acima)

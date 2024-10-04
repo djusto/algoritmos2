@@ -19,7 +19,6 @@ Minha Rotina Relase -O2
 
 
 
-
 Rotinas BLAS DAXPY  (y= a* x + y)
 ```
 	n  tflop GFLOPS
@@ -44,6 +43,8 @@ No modo Release  -O2 (otimizado)
 80000  0.030  27.6
 ```
 
+# Testes em python
+
 python, usando listas
 ```
 	n  tflop GFLOPS
@@ -55,7 +56,7 @@ python, usando listas
 ```
 
 
-python, usando numpy e loops
+python, usando numpy.array  e loops
 ```
 	n  tflop GFLOPS
        (ns)
@@ -66,8 +67,7 @@ python, usando numpy e loops
 ```
 
 
-
-python, usando numpy
+python, usando numpy sem loops
 ```
 	n  tflop GFLOPS
        (ns)
@@ -78,6 +78,42 @@ python, usando numpy
 ```
 
 
+# Testes rotinas Blas do Fortran
+```
 
+ =======================================================
+    DAXPY  speed test (BLAS1) vetor x vetor
+ =======================================================
+     n  repete  ttotal   tloop   tflop   GFLOPS
+                  (s)     (s)    (ns)    GFLOPS
+   100 10000000  0.2100  0.0000   0.1050   9.5238
+  1000 10000000  0.7810  0.0000   0.0391  25.6082
+ 10000  1000000  1.1880  0.0000   0.0594  16.8350
+ =======================================================
+   800 1000000  0.1950  0.0000   0.1219   8.2051
+  8000 1000000  1.8350  0.0000   0.1147   8.7193
+ 80000  100000  2.7140  0.0000   0.1696   5.8954
+
+=======================================================
+    DGEMV  speed test (BLAS2) matrix x vetor
+=======================================================
+  1000    1000  0.0400  0.0000   0.0200  49.9750
+  2000     100  0.0850  0.0009   0.1063   9.4094
+  4000      10  0.0400  0.0040   0.1250   7.9990
+  8000      10  0.1860  0.0186   0.1453   6.8813
+ 16000      10  0.6950  0.0695   0.1357   7.3667
+
+=======================================================
+   DGEMM speed test (BLAS3) matriz x matriz
+=======================================================
+     n  repete  ttotal   tloop   tflop  GFLOPS
+                  (s)     (s)    (ns)   GFLOPS
+   250     500  0.0840  0.0002   0.0054 185.6399
+   500     200  0.2280  0.0011   0.0046 219.0789
+  1000     100  0.9300  0.0093   0.0047 214.9462
+  2000      10  0.6810  0.0681   0.0043 234.8899
+  4000       1  0.4230  0.4230   0.0033 302.5626
+
+```
 
 

@@ -6,7 +6,6 @@
       {
         "id": "540cad9971b666ee",
         "type": "tabs",
-        "dimension": 64.41124780316343,
         "children": [
           {
             "id": "24a726e10c411874",
@@ -27,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "Fortran-tempos3.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,26 +35,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "4406a3300f04033b",
-        "type": "tabs",
-        "dimension": 35.58875219683655,
-        "children": [
-          {
-            "id": "423efc640eef31e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "Fortran-tempos3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "Fortran-tempos3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
+                "file": "Fortran-tempos3.md"
               }
             }
           }
@@ -182,23 +161,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "423efc640eef31e5",
+  "active": "00c6c185c783487b",
   "lastOpenFiles": [
-    "S1.md",
+    "Fortran.md",
+    "Fortran - tempos.md",
+    "Fortran - tempos2 - taylor.md",
+    "Fortran-tempos3.md",
+    "Estrutura de Dados.md",
+    "Busca de string.md",
     "git.md",
+    "S2.md",
+    "S1.md",
     "OO herança.md",
     "Orientação a Objeto.md",
     "Pasted image 20240930141822.png",
     "README.md",
     "Referências.md",
-    "S2.md",
     "Códigos.md",
     "Complexidade.md",
-    "Estrutura de Dados.md",
     "github.md",
     "codigos/Exemplos.md",
-    "Fortran - tempos.md",
-    "Fortran.md",
     "OO composição.md",
     "S3.md",
     "codigos",
