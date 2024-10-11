@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "codigos/Exemplos.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,25 @@
             }
           },
           {
-            "id": "00c6c185c783487b",
+            "id": "84013eec9b0c357a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python memoria.md",
+                "file": "git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a25531f096066e72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pesquisa Linear x Binária.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python memoria.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python memoria.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python memoria.md"
+                "file": "git.md"
               }
             }
           }
@@ -161,32 +174,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "00c6c185c783487b",
+  "active": "84013eec9b0c357a",
   "lastOpenFiles": [
-    "Fortran-tempos3.md",
+    "README.md",
+    "S4.md",
+    "S3.md",
+    "Ordenamento.md",
+    "Pasted image 20241010204823.png",
+    "Pasted image 20241010204813.png",
+    "Pasted image 20241010204659.png",
+    "Pasted image 20241010204410.png",
+    "Pesquisa Linear x Binária.md",
+    "Pasted image 20241010113544.png",
+    "Pasted image 20241010113324.png",
+    "Pasted image 20241010113018.png",
+    "Hashing Table.md",
+    "Medida de Tempo.md",
     "python memoria.md",
+    "Pasted image 20241007212105.png",
+    "Pasted image 20241007211348.png",
+    "swap.md",
+    "Referências.md",
+    "Estrutura de Dados.md",
+    "Pasted image 20240930141822.png",
+    "Lfortran on jupyter.md",
+    "Busca de string.md",
+    "codigos/Função.md",
+    "Pilha.md",
+    "S2.md",
+    "S1.md",
+    "Orientação a Objeto.md",
+    "Complexidade.md",
+    "Fortran-tempos3.md",
     "Fortran.md",
     "Fortran - tempos.md",
     "Fortran - tempos2 - taylor.md",
-    "Estrutura de Dados.md",
-    "Busca de string.md",
     "git.md",
-    "S2.md",
-    "S1.md",
     "OO herança.md",
-    "Orientação a Objeto.md",
-    "Pasted image 20240930141822.png",
-    "README.md",
-    "Referências.md",
-    "Códigos.md",
-    "Complexidade.md",
-    "github.md",
-    "codigos/Exemplos.md",
-    "OO composição.md",
-    "S3.md",
     "codigos",
-    "S10.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "Untitled.canvas"
   ]
 }

@@ -4,13 +4,13 @@ Durante o semestre 2024/2 deve mudar constantemente, inclusive a ordem dos tópi
 
 Tópicos
 
-[[S1]]: Python/F90, Objeto, Complexidade (Seq x recursivo)  
+[[S1]]: Python/F90, Objeto, Complexidade  
 [S1](S1.md)
 	[[Referências]]  
-[[S2]]: Pesquisa Linear x binária, Ordenamento  
-[[S3]]: Ordenamentos  
-[[S4]]: 18/out(CONCURSO)  ----  Matrizes Esparsas  
-[[S5]]: Pilhas  
+[[S2]]: Pilha, Orientação a Objeto  
+[[S3]]: Pesquisa Linear x binária, Ordenamento  
+[[S4]]: 18/out (Avaliação)
+[[S5]]: Pilhas + (Matriz Esparsa)
 [[S6]]: Filas  (expressões)   
 [[S7]]: (ProvaNumerico)  
 [[S8]]: (Feriado)  

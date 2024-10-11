@@ -1,5 +1,5 @@
+Exemplo de função em Python: entrada, saída, global x local
 
-Definindo função, valores de entrada e saída
 ```python
 k=0
 def mexe(x):
