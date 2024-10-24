@@ -104,15 +104,25 @@ class Pilha:
         else:
             print("         :( tá vazio  ")
 
+    def __str__(self):
+        res=f'Pilha= {self.P}'
+        return res
+
     def get(self,i):
         return self.P[i]
 
     def set(self,i,x):
         self.P[i]=x
 
-    def __str__(self):
-        res=f'Pilha= {self.P}'
-        return res
+    # melhor é usar os métodos __getitem__ e __setitem__
+    def __getitem__(self, chave):  # redefine a leitura com P[] 
+        return self.P[chave]
+
+    def __setitem__(self, chave, valor):  # Redefine a escrita usando []
+        self.P[chave] = valor
+
+
+
 ```
 
 Exemplo de uso:

@@ -13,11 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Ordenamento.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Ordenamento"
+            }
+          },
+          {
+            "id": "d96ea54afe7a636f",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Imagens/Pasted image 20241024184052.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241024184052"
             }
           },
           {
@@ -26,11 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "Pilha.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pilha"
             }
           },
           {
@@ -39,11 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pesquisa Linear x Binária.md",
+                "file": "S4.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "S4"
             }
           }
         ],
@@ -67,7 +85,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -82,7 +102,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -90,7 +112,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -113,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git.md",
+                "file": "Pilha Medida Tempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +145,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Pilha Medida Tempo"
             }
           },
           {
@@ -130,10 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git.md",
+                "file": "Pilha Medida Tempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Pilha Medida Tempo"
             }
           },
           {
@@ -144,7 +172,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -153,8 +183,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git.md"
-              }
+                "file": "Pilha Medida Tempo.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Pilha Medida Tempo"
             }
           }
         ]
@@ -174,43 +206,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84013eec9b0c357a",
+  "active": "7a85bc7a9e0f4ab9",
   "lastOpenFiles": [
-    "README.md",
-    "S4.md",
-    "S3.md",
+    "S5.md",
     "Ordenamento.md",
-    "Pasted image 20241010204823.png",
-    "Pasted image 20241010204813.png",
-    "Pasted image 20241010204659.png",
-    "Pasted image 20241010204410.png",
-    "Pesquisa Linear x Binária.md",
-    "Pasted image 20241010113544.png",
-    "Pasted image 20241010113324.png",
-    "Pasted image 20241010113018.png",
+    "Imagens/Pasted image 20241024184127.png",
+    "Imagens/Pasted image 20241024184109.png",
+    "Imagens/Pasted image 20241024184052.png",
+    "S4.md",
+    "codigos/Função.md",
     "Hashing Table.md",
+    "Pesquisa Linear x Binária.md",
+    "README.md",
+    "S3.md",
+    "Busca de string.md",
+    "codigos/aval1.py.md",
+    "Orientação a Objeto.md",
+    "Imagens/Pasted image 20241023094702.png",
+    "Untitled.md",
+    "Pilha Medida Tempo.md",
+    "S1.md",
+    "Imagens/Pasted image 20240930141822.png",
+    "Imagens/Pasted image 20241007212105.png",
+    "Imagens/Pasted image 20241007211348.png",
+    "Pilha.md",
+    "S2.md",
     "Medida de Tempo.md",
+    "git.md",
+    "Imagens/Pasted image 20241010204823.png",
+    "Imagens/Pasted image 20241010204813.png",
+    "Imagens/Pasted image 20241010204659.png",
     "python memoria.md",
-    "Pasted image 20241007212105.png",
-    "Pasted image 20241007211348.png",
     "swap.md",
     "Referências.md",
     "Estrutura de Dados.md",
-    "Pasted image 20240930141822.png",
     "Lfortran on jupyter.md",
-    "Busca de string.md",
-    "codigos/Função.md",
-    "Pilha.md",
-    "S2.md",
-    "S1.md",
-    "Orientação a Objeto.md",
     "Complexidade.md",
     "Fortran-tempos3.md",
-    "Fortran.md",
-    "Fortran - tempos.md",
-    "Fortran - tempos2 - taylor.md",
-    "git.md",
-    "OO herança.md",
     "codigos",
     "Untitled.canvas"
   ]

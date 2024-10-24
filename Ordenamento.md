@@ -83,7 +83,10 @@ Em detalhes o passo 5:
 # Mergesort
 https://runestone.academy/ns/books/published/pythonds3/SortSearch/TheMergeSort.html?mode=browsing
 
-É um tipo de estratégia divisão-e-conquista.
+É um tipo de estratégia divisão-e-conquista. 
+
+Algoritmo com função recursiva (overhead?) x função única com recursividade.
+
 
 
 ![](Pasted%20image%2020241010204813.png)
@@ -123,6 +126,24 @@ def merge_sort(a_list):
     print("Merging", a_list)
 
 ```
+
+O custo é $O(n log_2(n))$
+
 # Quicksort
+
+https://runestone.academy/ns/books/published/pythonds3/SortSearch/TheQuickSort.html?mode=browsing
+
+1. Escolha o pivô p (geralmente o primeiro)
+2. Crie um marcador a esquerda e um a direita e movimente os dois para o centro até que a lista esteja particionada com elementos menores que p a esquerda e maiores que p a direita.
+3. Repita o processo nas duas sublistas recursivamente
+
+![](Pasted%20image%2020241024184052.png)
+
+![](Pasted%20image%2020241024184109.png)
+![](Pasted%20image%2020241024184127.png)
+
+
+
+
 # Heapsort
 
