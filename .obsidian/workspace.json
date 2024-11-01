@@ -26,12 +26,15 @@
             "id": "d96ea54afe7a636f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Imagens/Pasted image 20241024184052.png"
+                "file": "codigos/aval1.py.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241024184052"
+              "icon": "lucide-file",
+              "title": "aval1.py"
             }
           },
           {
@@ -55,17 +58,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S4.md",
+                "file": "Matrizes Esparsas.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S4"
+              "title": "Matrizes Esparsas"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,44 +209,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7a85bc7a9e0f4ab9",
+  "active": "a25531f096066e72",
   "lastOpenFiles": [
+    "Pasted image 20241031223207.png",
+    "Pasted image 20241031222950.png",
+    "Pasted image 20241031222825.png",
+    "Pasted image 20241031222525.png",
+    "S6.md",
+    "Matrizes Esparsas.md",
+    "S1.md",
+    "Filas.md",
+    "S7.md",
+    "README.md",
+    "S8.md",
     "S5.md",
     "Ordenamento.md",
+    "codigos/cartas.py",
+    "codigos/Novo Documento de Texto.txt",
+    "Referências.md",
+    "swap.md",
+    "Untitled.canvas",
+    "Untitled.md",
+    "S4.md",
+    "codigos/aval1.py.md",
+    "codigos/Função.md",
+    "Pilha Medida Tempo.md",
+    "Medida de Tempo.md",
+    "S3.md",
+    "Imagens/Pasted image 20241024184052.png",
     "Imagens/Pasted image 20241024184127.png",
     "Imagens/Pasted image 20241024184109.png",
-    "Imagens/Pasted image 20241024184052.png",
-    "S4.md",
-    "codigos/Função.md",
     "Hashing Table.md",
     "Pesquisa Linear x Binária.md",
-    "README.md",
-    "S3.md",
     "Busca de string.md",
-    "codigos/aval1.py.md",
     "Orientação a Objeto.md",
     "Imagens/Pasted image 20241023094702.png",
-    "Untitled.md",
-    "Pilha Medida Tempo.md",
-    "S1.md",
     "Imagens/Pasted image 20240930141822.png",
     "Imagens/Pasted image 20241007212105.png",
     "Imagens/Pasted image 20241007211348.png",
     "Pilha.md",
     "S2.md",
-    "Medida de Tempo.md",
     "git.md",
-    "Imagens/Pasted image 20241010204823.png",
-    "Imagens/Pasted image 20241010204813.png",
-    "Imagens/Pasted image 20241010204659.png",
-    "python memoria.md",
-    "swap.md",
-    "Referências.md",
-    "Estrutura de Dados.md",
-    "Lfortran on jupyter.md",
-    "Complexidade.md",
-    "Fortran-tempos3.md",
-    "codigos",
-    "Untitled.canvas"
+    "codigos"
   ]
 }
