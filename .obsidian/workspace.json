@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrizes Esparsas.md",
+                "file": "S8.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Matrizes Esparsas"
+              "title": "S8"
             }
           }
         ],
@@ -211,17 +211,17 @@
   },
   "active": "a25531f096066e72",
   "lastOpenFiles": [
+    "S7.md",
+    "S8.md",
+    "Matrizes Esparsas.md",
+    "Filas.md",
+    "S6.md",
     "Pasted image 20241031223207.png",
     "Pasted image 20241031222950.png",
     "Pasted image 20241031222825.png",
     "Pasted image 20241031222525.png",
-    "S6.md",
-    "Matrizes Esparsas.md",
     "S1.md",
-    "Filas.md",
-    "S7.md",
     "README.md",
-    "S8.md",
     "S5.md",
     "Ordenamento.md",
     "codigos/cartas.py",
@@ -246,7 +246,6 @@
     "Imagens/Pasted image 20241023094702.png",
     "Imagens/Pasted image 20240930141822.png",
     "Imagens/Pasted image 20241007212105.png",
-    "Imagens/Pasted image 20241007211348.png",
     "Pilha.md",
     "S2.md",
     "git.md",
