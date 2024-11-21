@@ -10,11 +10,11 @@ Tópicos
 [[S2]]: Pilha, Orientação a Objeto  
 [[S3]]: Pesquisa Linear x binária, Ordenamento  
 [[S4]]: 18/out (Avaliação)
-[[S5]]: Pilhas + (Matriz Esparsa)
-[[S6]]: Filas  (expressões)   
+[[S5]]: Pilhas + Matriz Esparsa
+[[S6]]: Filas  
 [[S7]]: (ProvaNumerico)  
-[[S8]]: (Feriado)  
-[[S9]]:  Listas lineares, simples,duplas,circulares    
+[[S8]]: (Feriado) (Avaliação 2)  
+[[S9]]:  (expressões)   Listas lineares, simples, duplas, circulares    
 [[S10]]: Listas Generalizadas, Arvores  
 S11: Arvores Binarias, busca  
 S12: Arvores Binarias, Prefix,Infix,posfix  
