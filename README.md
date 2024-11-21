@@ -7,15 +7,15 @@ Tópicos
 [[S1]]: Python/F90, Objeto, Complexidade  
 [S1](S1.md)
 	[[Referências]]  
-[[S2]]: Pilha, Orientação a Objeto  
-[[S3]]: Pesquisa Linear x binária, Ordenamento  
-[[S4]]: 18/out (Avaliação)
-[[S5]]: Pilhas + Matriz Esparsa
-[[S6]]: Filas  
-[[S7]]: (ProvaNumerico)  
-[[S8]]: (Feriado) (Avaliação 2)  
-[[S9]]:  (expressões)   Listas lineares, simples, duplas, circulares    
-[[S10]]: Listas Generalizadas, Arvores  
+[S2](S2.md): Pilha, Orientação a Objeto  
+[S3](S3.md): Pesquisa Linear x binária, Ordenamento  
+[S4](S4.md): 18/out (Avaliação)
+[S5](S5.md): Pilhas + Matriz Esparsa
+[S6](S6.md): Filas  
+[S7](S7.md): (ProvaNumerico)  
+[S8](S8.md): (Feriado) (Avaliação 2)  
+[S9](S9.md):  (expressões)   Listas lineares, simples, duplas, circulares    
+[S10](S10.md): Listas Generalizadas, Arvores  
 S11: Arvores Binarias, busca  
 S12: Arvores Binarias, Prefix,Infix,posfix  
 S13: 20/Dez  
