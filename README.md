@@ -14,11 +14,11 @@ Tópicos
 [S6](S6.md): Filas  
 [S7](S7.md): (ProvaNumerico)  
 [S8](S8.md): (Feriado) (Avaliação 2)  
-[S9](S9.md):  (expressões)   Listas lineares, simples, duplas, circulares    
-[S10](S10.md): Listas Generalizadas, Arvores  
-S11: Arvores Binarias, busca  
-S12: Arvores Binarias, Prefix,Infix,posfix  
-S13: 20/Dez  
+[S9](S9.md):  Listas Não ordenadas e Listas Ordenadas.
+[S10](S10.md): 29/nov Árvore binárias,  Prefix, Infix, posfix
+[S11](S11.md): 6/dez  Listas Circulares
+S12: 13/dez Árvores Binarias, busca (expressões)   
+S13: 20/Dez (aval?) 
 S14: 10/Jan  
 S15: 17/Jan  
 
