@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S12.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "S12"
+              "title": "README"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "202d0008813b067f",
   "lastOpenFiles": [
-    "README.md",
     "S12.md",
+    "README.md",
     "S11.md",
     "S10.md",
     "Arvore.md",
