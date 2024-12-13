@@ -17,7 +17,7 @@ Tópicos
 [S9](S9.md):  Listas Não ordenadas e Listas Ordenadas.
 [S10](S10.md): 29/nov Árvore binárias,  Prefix, Infix, posfix
 [S11](S11.md): 6/dez  Listas Circulares
-S12: 13/dez Árvores Binarias, busca (expressões)   
+[S12](S12.md): 13/dez Árvores Binarias, busca (expressões)   
 S13: 20/Dez (aval?) 
 S14: 10/Jan  
 S15: 17/Jan  

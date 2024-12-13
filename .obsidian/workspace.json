@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arvore.md",
+                "file": "S12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arvore"
+              "title": "S12"
             }
           }
         ],
@@ -226,10 +226,13 @@
   },
   "active": "202d0008813b067f",
   "lastOpenFiles": [
+    "README.md",
+    "S12.md",
+    "S11.md",
+    "S10.md",
+    "Arvore.md",
     "Pasted image 20241128233859.png",
     "Pasted image 20241128233821.png",
-    "README.md",
-    "Arvore.md",
     "Pasted image 20241128232837.png",
     "Pasted image 20241128232824.png",
     "Pasted image 20241128231949.png",
@@ -237,12 +240,10 @@
     "Pasted image 20241128230720.png",
     "Pasted image 20241128230014.png",
     "Pasted image 20241128225917.png",
-    "S10.md",
     "Lista ordenada.md",
     "S9.md",
     "Imagens/Pasted image 20241121091637.png",
     "Imagens/Pasted image 20241121102629.png",
-    "Imagens/Pasted image 20241121102253.png",
     "Lista desordenada.md",
     "UnorderedListGetSet.md",
     "Filas.md",
@@ -264,7 +265,6 @@
     "S4.md",
     "codigos/aval1.py.md",
     "codigos/Função.md",
-    "Pilha Medida Tempo.md",
     "codigos"
   ]
 }
