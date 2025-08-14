@@ -73,17 +73,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Arvore.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Arvore"
+            }
+          },
+          {
+            "id": "999417201ca2af38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -102,7 +135,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -224,10 +258,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "202d0008813b067f",
+  "active": "999417201ca2af38",
   "lastOpenFiles": [
-    "S12.md",
+    "github.md",
+    "git.md",
+    "codigos/quadradinho.py.md",
+    "codigos/aval1.py.md",
+    "Grid_na_tela.md",
+    "S1.md",
+    "codigos/quadradinho.py",
+    "codigos/quadradinho.txt",
+    "codigos/Novo Documento de Texto.txt",
+    "codigos/Novo atalho.lnk",
+    "codigos/Função.md",
+    "dsdfsd.md",
     "README.md",
+    "S12.md",
     "S11.md",
     "S10.md",
     "Arvore.md",
@@ -255,16 +301,7 @@
     "S7.md",
     "Matrizes Esparsas.md",
     "S6.md",
-    "S1.md",
-    "S5.md",
-    "Ordenamento.md",
     "codigos/cartas.py",
-    "codigos/Novo Documento de Texto.txt",
-    "Referências.md",
-    "Untitled.md",
-    "S4.md",
-    "codigos/aval1.py.md",
-    "codigos/Função.md",
     "codigos"
   ]
 }
