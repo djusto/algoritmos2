@@ -4,7 +4,7 @@ Durante o semestre 2024/2 deve mudar constantemente, inclusive a ordem dos tópi
 
 Tópicos
 
-[[S1]]: Python/F90, Objeto, Complexidade  
+[S1](output/S1.md): Python/F90, Objeto, Complexidade  
 [S1](S1.md): 
 	[Referências](Referências.md)  
 [S2](S2.md): Pilha, Orientação a Objeto  
