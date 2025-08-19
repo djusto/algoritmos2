@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git.md",
+                "file": "Estrutura de Dados.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git"
+              "title": "Estrutura de Dados"
             }
           }
         ],
@@ -189,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pilha Medida Tempo.md",
+                "file": "Estrutura de Dados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pilha Medida Tempo"
+              "title": "Backlinks for Estrutura de Dados"
             }
           },
           {
@@ -260,19 +260,19 @@
   },
   "active": "999417201ca2af38",
   "lastOpenFiles": [
-    "github.md",
+    "S1.md",
+    "README.md",
     "git.md",
+    "github.md",
     "codigos/quadradinho.py.md",
     "codigos/aval1.py.md",
     "Grid_na_tela.md",
-    "S1.md",
     "codigos/quadradinho.py",
     "codigos/quadradinho.txt",
     "codigos/Novo Documento de Texto.txt",
     "codigos/Novo atalho.lnk",
     "codigos/Função.md",
     "dsdfsd.md",
-    "README.md",
     "S12.md",
     "S11.md",
     "S10.md",
