@@ -34,18 +34,14 @@ Exemplos de elementos:
    
 # Estruturas (Abstract Data Type)
 (Tipo de dado abstrato)
-![Pasted image 20240916163831](Pasted%20image%2020240916163831.png)
-
-
-
-
+![Pasted image 20240916163831](Imagens/Pasted%20image%2020240916163831.png)
 
 array (vetores) 
-   ![Pasted image 20240916124631](Pasted%20image%2020240916124631.png)
+   ![Pasted image 20240916124631](Imagens/Pasted%20image%2020240916124631.png)
    
    https://visualgo.net/en/array
    
-   ![Pasted image 20240916130003](Pasted%20image%2020240916130003.png)
+   ![Pasted image 20240916130003](Imagens/Pasted%20image%2020240916130003.png)
    array range queries ??
    
 
@@ -64,15 +60,15 @@ fila - Queue  ([S6](S6.md))
 lista linear ([S9](S9.md))
    lista sequencial (Linked List-LL)
    lista simples e duplamente encadeada
-   ![Pasted image 20240916124719](Pasted%20image%2020240916124719.png)   
+   ![Pasted image 20240916124719](Imagens/Pasted%20image%2020240916124719.png)   
 
 árvore ([S10](S10.md))
    árvore generaliza (grafo)
-   ![Pasted image 20240916124838](Pasted%20image%2020240916124838.png)
+   ![Pasted image 20240916124838](Imagens/Pasted%20image%2020240916124838.png)
    árvore binária
-   ![Pasted image 20240916124752](Pasted%20image%2020240916124752.png)   
+   ![Pasted image 20240916124752](Imagens/Pasted%20image%2020240916124752.png)   
    prefix,infix,posfix
 
 hash-table
-   ![Pasted image 20240916124825](Pasted%20image%2020240916124825.png)
+   ![Pasted image 20240916124825](Imagens/Pasted%20image%2020240916124825.png)
 
