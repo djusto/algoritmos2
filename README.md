@@ -9,10 +9,10 @@ Tópicos
 	[Referências](Referências.md)  
 [S2](S2.md): Pilha, Orientação a Objeto  
 [S3](S3.md): Pesquisa Linear x binária, Ordenamento  
-[S4](S4.md): 
+[S4](S4.md):  
 [S5](S5.md): Pilhas + Matriz Esparsa  
 [S6](S6.md): Filas  
-[S7](S7.md): (26/set) Festival Matemática 
+[S7](S7.md): (26/set) Festival Matemática  
 [S8](S8.md): (03/out) Prova Numérico-(Avaliação 1?)  
 [S9](S9.md):  10/out  Listas Não ordenadas e Listas Ordenadas.  
 [S10](S10.md): 17/out  Árvore binárias,  Prefix, Infix, posfix  
@@ -20,8 +20,8 @@ Tópicos
 [S12](S12.md): 31/out  Árvores Binarias, busca (expressões)    
 S13: 07/nov    
 S14: 14/nov   
-S15: 21/nov
-S16: 28/nov (prova 2 Numérico)
+S15: 21/nov  
+S16: 28/nov (prova 2 Numérico)  
 
 Toda aula: (F90 passada), Algoritmo, Complexidade, Python, Aplicação.
 

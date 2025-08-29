@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "S5.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "S5"
+              "title": "README"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "24a726e10c411874",
   "lastOpenFiles": [
-    "Ordenamento.md",
     "S5.md",
+    "Ordenamento.md",
     "README.md",
     "S7.md",
     "S6.md",
