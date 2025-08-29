@@ -72,7 +72,7 @@ for i in range(4):
     print(P)
 ```
 
-Podemos criar essa Fila como uma classe.  
+Podemos criar essa Pilha como uma classe.  
 Ver [Orientação a Objeto](Orientação%20a%20Objeto.md)
 
 
