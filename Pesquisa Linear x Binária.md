@@ -63,8 +63,8 @@ Como implementar:  Loop x recursivo
 def busca_binaria(x,L):
     achou=False
     n=len(L)
-    ini = 1
-    fim = n
+    i = 1
+    f = n
     while ~achou and i<f:
         m=int( i+f )/2
         if L.get(m)==x:

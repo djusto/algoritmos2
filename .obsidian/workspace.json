@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Filas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Filas"
             }
           }
         ]
@@ -177,31 +177,31 @@
   "active": "24a726e10c411874",
   "lastOpenFiles": [
     "S5.md",
-    "Ordenamento.md",
     "README.md",
-    "S7.md",
-    "S6.md",
-    "Pesquisa Linear x Binária.md",
     "S4.md",
+    "S6.md",
+    "Filas.md",
+    "S1.md",
+    "Grid_na_tela.md",
+    "Ordenamento.md",
+    "Busca de string.md",
+    "Avaliacao1_242.md",
     "S3.md",
-    "S2.md",
+    "Pesquisa Linear x Binária.md",
     "Pilha.md",
+    "S2.md",
     "Medida de Tempo.md",
+    "S7.md",
     "python memoria.md",
     "Hashing Table.md",
     "Pilha Medida Tempo.md",
     "codigos/aval1.py.md",
     "Complexidade.md",
-    "S1.md",
     "Orientação a Objeto.md",
     "Fortran - tempos.md",
     "Fortran - tempos2 - taylor.md",
     "Referências.md",
     "git.md",
-    "mysql.md",
-    "Grid_na_tela.md",
-    "Estrutura de Dados.md",
-    "output/S1.md",
     "output",
     "codigos/quadradinho.py",
     "codigos/quadradinho.txt",
