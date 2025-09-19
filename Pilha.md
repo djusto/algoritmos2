@@ -173,3 +173,23 @@ P[3] = 98
  
 ```
 
+
+
+
+
+# Teste de tempo Fortran,Python,C,Rust
+
+Pilhas:
+Python w/ array: 0.900 s 
+Python w/ list : 0.880 s
+Rust           : 0.057 s 
+C              : 0.029 s
+Fortran        : 0.0219s
+
+-O3 otimizado
+C              : 0.023 s
+Rust           : 0.015 s 
+Fortran   vetor: 0.012 s
+
+
+

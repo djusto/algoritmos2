@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ordenamento.md",
+                "file": "Pilha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Ordenamento"
+              "title": "Pilha"
             }
           }
         ]
@@ -176,10 +176,20 @@
   },
   "active": "24a726e10c411874",
   "lastOpenFiles": [
+    "Matrizes Esparsas.md",
+    "S6.md",
+    "Filas.md",
+    "S8.md",
+    "S9.md",
+    "S7.md",
+    "pygame_exemplo1.md",
+    "Cartas.md",
+    "S5.md",
+    "S4.md",
+    "Ordenamento.md",
     "Lfortran on jupyter.md",
     "Lista desordenada.md",
     "Lista ordenada.md",
-    "Matrizes Esparsas.md",
     "Medida de Tempo.md",
     "Estrutura de Dados.md",
     "Arvore.md",
@@ -192,18 +202,8 @@
     "mysql.md",
     "OO composição.md",
     "OO herança.md",
-    "Ordenamento.md",
     "Orientação a Objeto.md",
-    "swap.md",
-    "UnorderedListGetSet.md",
-    "Welcome.md",
     "Untitled.canvas",
-    "Referências.md",
-    "Hashing Table.md",
-    "Grid_na_tela.md",
-    "github.md",
-    "git.md",
-    "Fortran.md",
     "output",
     "codigos/quadradinho.py",
     "codigos/quadradinho.txt",

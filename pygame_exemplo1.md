@@ -1,0 +1,53 @@
+
+Exemplo1 básico do pygame
+
+```python
+import pygame
+import sys
+
+# Inicialização do pygame
+pygame.init()
+
+# Definir dimensões da janela
+largura, altura = 800, 600
+screen = pygame.display.set_mode((largura, altura))
+
+# Título da janela
+pygame.display.set_caption("Programa baseado em eventos - Pygame")
+
+# Definir cores (RGB)
+cor_branco = (255, 255, 255)
+cor_azul = (0, 0, 255)
+
+# Variável de controle do loop
+executando = True
+
+# Loop principal (game loop)
+while executando:
+    # Processamento de eventos
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:  # Evento de fechar a janela
+            executando = False
+        elif event.type == pygame.KEYDOWN:  # Evento de tecla pressionada
+            if event.key == pygame.K_ESCAPE:  # Pressionar ESC fecha o programa
+                executando = False
+        elif event.type == pygame.MOUSEBUTTONDOWN:  # Evento de clique do mouse
+            posicao_mouse = event.pos  # Pega a posição do clique
+            # Desenhar um círculo vermelho com raio 5 na posição do clique
+            pygame.draw.circle(screen, cor_vermelha, posicao_mouse, 5)
+            print(f"dago {posicao_mouse}")
+
+    # Atualização do estado do jogo
+    screen.fill(cor_azul)  # Preencher o fundo com a cor azul
+
+    # Desenhar objetos aqui (se necessário)
+
+    # Atualizar a tela
+    pygame.display.flip()
+
+# Encerrar o pygame e o programa
+pygame.quit()
+sys.exit()
+
+```
+
